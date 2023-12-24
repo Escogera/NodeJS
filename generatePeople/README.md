@@ -1,0 +1,1 @@
+This package generate a random person (name and surname)
