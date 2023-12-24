@@ -1,0 +1,12 @@
+{
+    "name": "generatepeople",
+    "version": "1.0.0",
+    "description": "generate a random person (name and surname)",
+    "main": "index.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "keywords": [],
+    "author": "Escogera",
+    "license": "ISC"
+}
